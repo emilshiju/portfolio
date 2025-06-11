@@ -18,7 +18,8 @@ function Home2() {
             <h1 style={{ fontSize: "2.6em" }}>
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
-            <p className="home-about-body">
+            <p>I am a full-stack developer focused on the MERN stack with two years of hands-on experience. After completing my higher secondary education, I taught myself the MERN stack and have successfully completed two industry-level projects along with several mini-projects. Completing these projects has enhanced my ability to research and implement new technologies independently, without relying on others. Moreover, my problem-solving skills allow me to find better solutions for every challenge I encounter. I am eager to learn new technologies and excited to apply my skills and hard work to future projects.</p>
+            {/* <p className="home-about-body">
               I fell in love with programming and I have at least learnt
               something, I think… 🤷‍♂️
               <br />
@@ -50,7 +51,7 @@ function Home2() {
               <i>
                 <b className="purple"> React.js and Next.js</b>
               </i>
-            </p>
+            </p> */}
           </Col>
           <Col md={4} className="myAvtar">
             <Tilt>
@@ -67,7 +68,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/emilshiju"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -76,18 +77,18 @@ function Home2() {
                 </a>
               </li>
               <li className="social-icons">
-                <a
+                {/* <a
                   href="https://twitter.com/Soumyajit4419"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
-                >
+                > */}
                   <AiOutlineTwitter />
-                </a>
+                {/* </a> */}
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/emil-shiju-619615277/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -96,14 +97,14 @@ function Home2() {
                 </a>
               </li>
               <li className="social-icons">
-                <a
+                {/* <a
                   href="https://www.instagram.com/soumyajit4419"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
-                >
+                > */}
                   <AiFillInstagram />
-                </a>
+                {/* </a> */}
               </li>
             </ul>
           </Col>

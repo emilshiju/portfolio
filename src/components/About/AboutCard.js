@@ -7,7 +7,8 @@ function AboutCard() {
     <Card className="quote-card-view">
       <Card.Body>
         <blockquote className="blockquote mb-0">
-          <p style={{ textAlign: "justify" }}>
+         <p>I am a full-stack developer focused on the MERN stack with two years of hands-on experience. After completing my higher secondary education, I taught myself the MERN stack and have successfully completed two industry-level projects along with several mini-projects. Completing these projects has enhanced my ability to research and implement new technologies independently, without relying on others. Moreover, my problem-solving skills allow me to find better solutions for every challenge I encounter. I am eager to learn new technologies and excited to apply my skills and hard work to future projects.</p>
+          {/* <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Soumyajit Behera </span>
             from <span className="purple"> Bhubaneswar, India.</span>
             <br />
@@ -34,7 +35,7 @@ function AboutCard() {
           <p style={{ color: "rgb(155 126 172)" }}>
             "Strive to build things that make a difference!"{" "}
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <footer className="blockquote-footer">Soumyajit</footer> */}
         </blockquote>
       </Card.Body>
     </Card>
