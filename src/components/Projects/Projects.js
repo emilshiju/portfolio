@@ -34,8 +34,8 @@ function Projects() {
             <ProjectCard
               imgPath={chatRandom}
               isBlog={false}
-              title="Chatify"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
+              title="NearbyChat"
+              description="NearbyChat is a real-time video and chat platform connecting users globally using WebRTC and advanced matching. It features location-based search with Mapbox, push notifications, premium plans via Razorpay, and a TURN server on AWS, ensuring smooth connectivity and user engagement."
               ghLink="https://github.com/soumyajit4419/Chatify"
               demoLink="https://chatify-49.web.app/"
             />
@@ -45,8 +45,8 @@ function Projects() {
             <ProjectCard
               imgPath={Props24}
               isBlog={false}
-              title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
+              title="Props24"
+              description="Props24 is a real estate web app connecting users with suitable agents or agencies. It features profile verification, property listings, admin moderation, and a matching algorithm. Users can review agents, while admins manage verifications, cities, reports, and specializations."
               ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
               demoLink="https://blogs.soumya-jit.tech/"
             />
@@ -56,8 +56,8 @@ function Projects() {
             <ProjectCard
               imgPath={ecomerce}
               isBlog={false}
-              title="Editor.io"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
+              title="TechTrove"
+              description="TechTrove is an E-commerce web app featuring secure Razorpay payments, OTP login via Twilio, email via Nodemailer, and powerful admin tools. It offers product, order, coupon, banner management, and is deployed on AWS EC2 with Route53 for scalability."
               ghLink="https://github.com/soumyajit4419/Editor.io"
               demoLink="https://editor.soumya-jit.tech/"              
             />
@@ -69,8 +69,8 @@ function Projects() {
             <ProjectCard
               imgPath={blog}
               isBlog={false}
-              title="Editor.io"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
+              title="Blog Application"
+              description="A full-featured Blog Application where users can create, edit, update, and delete their own blog posts. It includes profile management and integrates Firebase for storing user images. This application offers a smooth and intuitive experience for personal content creation and management."
               ghLink="https://github.com/soumyajit4419/Editor.io"
               demoLink="https://editor.soumya-jit.tech/"              
             />
@@ -82,8 +82,8 @@ function Projects() {
             <ProjectCard
               imgPath={poll}
               isBlog={false}
-              title="Editor.io"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
+              title="Poll Application"
+              description="Poll Application is a web platform that allows users to create public polls, vote, and engage in real-time discussions through a live chatbox. Anyone can participate, share opinions, and create their own polls to gather public feedback. It fosters open interaction and debate around each poll's options and topics."
               ghLink="https://github.com/soumyajit4419/Editor.io"
               demoLink="https://editor.soumya-jit.tech/"              
             />
@@ -95,8 +95,8 @@ function Projects() {
             <ProjectCard
                imgPath={todo}
               isBlog={false}
-              title="Editor.io"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
+              title="TODO App"
+              description="A TODO App built with React and supporting libraries that allows users to add, edit, delete, and mark tasks as completed. It features internal state management and a background theme changer for a smooth, responsive, and customizable experience."
               ghLink="https://github.com/soumyajit4419/Editor.io"
               demoLink="https://editor.soumya-jit.tech/"              
             />
@@ -108,8 +108,8 @@ function Projects() {
             <ProjectCard
               imgPath={olx}
               isBlog={false}
-              title="Editor.io"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
+              title="OLX"
+              description="A user-friendly platform inspired by OLX for buying and selling products. Built with Firebase, it features Firestore for real-time database operations and Firebase Authentication for secure, seamless login and user management, ensuring a smooth and interactive marketplace experience."
               ghLink="https://github.com/soumyajit4419/Editor.io"
               demoLink="https://editor.soumya-jit.tech/"              
             />
@@ -120,8 +120,8 @@ function Projects() {
             <ProjectCard
               imgPath={netflix}
               isBlog={false}
-              title="Plant AI"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
+              title="Netflix"
+              description="A real-time Netflix clone built using React and the TMDB API for dynamic movie data. It features a sleek UI, live movie trailer playback using React Player, and provides an immersive video streaming experience similar to the original Netflix platform."
               ghLink="https://github.com/soumyajit4419/Plant_AI"
               demoLink="https://plant49-ai.herokuapp.com/"
             />
@@ -131,8 +131,8 @@ function Projects() {
             <ProjectCard
               imgPath={firstStart}
               isBlog={false}
-              title="Ai For Social Good"
-              description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
+              title="FirstStart"
+              description="FirstStart is a website designed to highlight a startup's mission and vision. It showcases the startup’s goals and includes a contact form, making it easy for users to connect and engage with the team."
               ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
               // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
             />
